@@ -1,0 +1,26 @@
+{
+"name": "verticalmenutooljono",
+"version": "1.0.0",
+"description": "This is code snippet that generates a vertical icon menu with tooltip tooltips. The code is contained within a single file named index.js.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/CraftJono/VerticalMenuTooltip.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "CraftJono",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
